@@ -1,0 +1,17 @@
+.loader,
+.error {
+    display: none;
+}
+
+.cat-info {
+    display: flex;
+}
+
+#breed_image {
+    max-width: 300px;
+}
+
+.cat-info h2,
+.cat-info p {
+    margin: 0;
+}
